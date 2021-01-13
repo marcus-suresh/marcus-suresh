@@ -36,7 +36,47 @@
 [![Spotify](https://img.shields.io/badge/Spotify_--_Marcus'_Coding_Music-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1gAuCsD6P4ta5NvdLjsAwo?si=1Jisn1HBSB-z63KkotHI1w)
 🎶 A collection of modern day headbangers for the keyboard warrior
 
-### 📕 Latest Blog Posts
+### 📕 Projects
+Incomplete data are quite common which can deteriorate statistical inference. As such, the `PyImpuyte` team set out to develop a Python package that simplifies the task of imputing missing values in Australian Government national statistical assets and other micro-data sets.
+
+The development of `PyImpuyte` is motivated by helping micro-data practitioners select and implement advanced imputation methods. `PyImpuyte` adds an additional tool in the toolkit of practitioners seeking to preserve their data and fight information loss that arises from droping observations with missing values.
+
+  #### Main Features
+  * Interfaces with `scikit-learn` to provide a customer-centric and efficient way to perform imputation using machine learning algorithms.
+  * Support for numerous imputation strategies and performance metrics
+
+* Conference Paper - Chapter 18 of **[AI2019: Advances in Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-3-030-35288-2_18)**.
+
+```BibTeX
+@inbook{inbook,
+  author = {Suresh, Marcus and Taib, Ronnie and Zhao, Yanchang and Jin, Warren},
+  year = {2019},
+  month = {11},
+  pages = {215-227},
+  title = {Sharpening the BLADE: Missing Data Imputation Using Supervised Machine Learning},
+  isbn = {978-3-030-35287-5},
+  doi = {10.1007/978-3-030-35288-2_18}
+}
+```
+
+* Python Package - **[PyImpuyte](https://bitbucket.csiro.au/projects/DDE/repos/pyimpuyte)**.
+
+```BibTeX
+@misc{Suresh2020_PyImpuyte,
+  title={PyImpuyte},
+  author={Suresh, Marcus et al.},
+  year={2020},
+  howpublished={\url{https://bitbucket.csiro.au/projects/DDE/repos/pyimpuyte}},
+}
+
+
+## Conferences and Meet-ups
+* We presented our research at the **[2019 Australasian Joint Conference on Artificial Intelligence](http://nugget.unisa.edu.au/AI2019/index.php)** which lead to the development of `PyImpuyte`.
+
+* We will be presenting at the next Canberra Data Scientists Meet-up on 28 July 2020.
+
+
+
 
 </details>
 
