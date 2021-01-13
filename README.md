@@ -37,8 +37,6 @@
 🎶 A collection of modern day headbangers for the keyboard warrior
 
 ### 📕 Projects
-Incomplete data are quite common which can deteriorate statistical inference. As such, the `PyImpuyte` team set out to develop a Python package that simplifies the task of imputing missing values in Australian Government national statistical assets and other micro-data sets.
-
 The development of `PyImpuyte` is motivated by helping micro-data practitioners select and implement advanced imputation methods. `PyImpuyte` adds an additional tool in the toolkit of practitioners seeking to preserve their data and fight information loss that arises from droping observations with missing values.
 
   #### Main Features
@@ -68,16 +66,6 @@ The development of `PyImpuyte` is motivated by helping micro-data practitioners 
   year={2020},
   howpublished={\url{https://bitbucket.csiro.au/projects/DDE/repos/pyimpuyte}},
 }
-
-
-## Conferences and Meet-ups
-* We presented our research at the **[2019 Australasian Joint Conference on Artificial Intelligence](http://nugget.unisa.edu.au/AI2019/index.php)** which lead to the development of `PyImpuyte`.
-
-* We will be presenting at the next Canberra Data Scientists Meet-up on 28 July 2020.
-
-
-
-
-</details>
+```
 
 [![Marcus' Github Stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&show_icons=true&count_private=true&theme=dracula)](https://github.com/marcus-suresh)
