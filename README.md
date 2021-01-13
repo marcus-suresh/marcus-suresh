@@ -41,7 +41,3 @@
 </details>
 
 [![Marcus' Github Stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&show_icons=true&count_private=true&theme=dracula)](https://github.com/marcus-suresh)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcus-suresh&theme=dracula)](https://github.com/marcus-suresh/github-readme-stats)
-
-
