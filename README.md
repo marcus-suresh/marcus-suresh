@@ -27,7 +27,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Data Science Rig:
+![GPU](https://img.shields.io/badge/NVIDIA-RTX2080Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CPU](https://img.shields.io/badge/Intel-Core_i9_9900K_OC'd_5.0_GHz-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
 
 ### Spotify Playlist - Marcus' Coding Music 🎧
-https://open.spotify.com/playlist/1gAuCsD6P4ta5NvdLjsAwo?si=1Jisn1HBSB-z63KkotHI1w
+A collection of modern day headbangers for the keyboard warrior
+[![Spotify](https://img.shields.io/badge/Spotify_--_Marcus'_Coding_Music-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1gAuCsD6P4ta5NvdLjsAwo?si=1Jisn1HBSB-z63KkotHI1w)
+
 
