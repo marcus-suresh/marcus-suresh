@@ -40,7 +40,7 @@
 
 </details>
 
-[![Marcus' Github Stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&count_private=true&show_icons=true&theme=dracula)](https://github.com/marcus-suresh/github-readme-stats)
+[![Marcus' Github Stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&show_icons=true&theme=dracula)](https://github.com/marcus-suresh/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcus-suresh&repo=github-readme-stats&theme=dracula)](https://github.com/marcus-suresh/github-readme-stats)
 
