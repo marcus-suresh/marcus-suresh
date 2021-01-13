@@ -37,7 +37,7 @@
 🎶 A collection of modern day headbangers for the keyboard warrior
 
 ### Connect with me:
-[<img align="left" alt="marcus-suresh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
