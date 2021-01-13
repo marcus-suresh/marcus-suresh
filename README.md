@@ -40,13 +40,8 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
----
-
 [![Marcus' Github Stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&count_private=true&show_icons=true&theme=dracula)](https://github.com/marcus-suresh/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcus-suresh&repo=github-readme-stats)](https://github.com/marcus-suresh/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcus-suresh&repo=github-readme-stats&theme=dracula)](https://github.com/marcus-suresh/github-readme-stats)
 
 
