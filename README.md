@@ -49,5 +49,4 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcus-suresh&repo=github-readme-stats)](https://github.com/marcus-suresh/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-suresh&repo=github-readme-stats)](https://github.com/marcus-suresh/github-readme-stats)
 
