@@ -67,5 +67,5 @@ The development of `PyImpuyte` is motivated by helping micro-data practitioners 
   howpublished={\url{https://bitbucket.csiro.au/projects/DDE/repos/pyimpuyte}},
 }
 ```
-
-[![Marcus' Github Stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&show_icons=true&count_private=true&theme=dracula)](https://github.com/marcus-suresh)
+### 📺 YouTube Videos
+- [Sharpening the Blade: Missing Data Imputation using Supervised Machine Learning - Marcus Suresh](https://www.youtube.com/watch?v=PFAqed4h0-g&t=573s)
