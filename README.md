@@ -33,7 +33,8 @@
 
 
 ### Spotify Playlist - Marcus' Coding Music 🎧
-A collection of modern day headbangers for the keyboard warrior
+- 🎶 A collection of modern day headbangers for the keyboard warrior
+
 [![Spotify](https://img.shields.io/badge/Spotify_--_Marcus'_Coding_Music-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1gAuCsD6P4ta5NvdLjsAwo?si=1Jisn1HBSB-z63KkotHI1w)
 
 
