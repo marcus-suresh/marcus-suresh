@@ -57,4 +57,6 @@
 
 ---
 
- <img align="left" alt="Marcus' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/marcus-suresh/github-readme-stats" />
+[![Marcus' Github Stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&count_private=true&show_icons=true&theme=dracula)](https://github.com/marcus-suresh/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcus-suresh&repo=github-readme-stats)](https://github.com/marcus-suresh/github-readme-stats)
