@@ -37,7 +37,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcus-suresh&repo=github-readme-stats&theme=radical)](https://github.com/marcus-suresh/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-suresh&theme=radical)](https://github.com/marcus-suresh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-suresh&langs_count=8&theme=radical)](https://github.com/marcus-suresh/github-readme-stats)
 
 ### 📕 Projects
 The development of `PyImpuyte` is motivated by helping micro-data practitioners select and implement advanced imputation methods. `PyImpuyte` adds an additional tool in the toolkit of practitioners seeking to preserve their data and fight information loss that arises from droping observations with missing values.
