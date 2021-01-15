@@ -6,25 +6,14 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
-
 ## I'm a Data Scientist and Economist
-
 - 🔭 I work for the Australian Federal Goverment and apply machine learning and data science methods to derive insights
 - 🌱 I’m currently studying a Master of Data Science at the University of Sydney
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Python, R, QGIS/ArcMap
 - ⚡ Fun fact: I am enjoy building high performance computers and playing eSports
 
-### GitHub Stats
-![Marcus' github stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&show_icons=true&theme=radical)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcus-suresh&repo=github-readme-stats&theme=radical)](https://github.com/marcus-suresh/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-suresh&theme=radical)](https://github.com/marcus-suresh/github-readme-stats)
-
-
 ### Languages and Tools:
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 <img src="https://img.shields.io/badge/VSCode%20Power%20User-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
@@ -42,6 +31,13 @@
 ### Spotify Playlist - Marcus' Coding Music 🎧
 [![Spotify](https://img.shields.io/badge/Spotify_--_Marcus'_Coding_Music-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1gAuCsD6P4ta5NvdLjsAwo?si=1Jisn1HBSB-z63KkotHI1w)
 🎶 A collection of modern day headbangers for the keyboard warrior
+
+### GitHub Stats
+![Marcus' github stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&show_icons=true&theme=radical)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcus-suresh&repo=github-readme-stats&theme=radical)](https://github.com/marcus-suresh/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-suresh&theme=radical)](https://github.com/marcus-suresh/github-readme-stats)
 
 ### 📕 Projects
 The development of `PyImpuyte` is motivated by helping micro-data practitioners select and implement advanced imputation methods. `PyImpuyte` adds an additional tool in the toolkit of practitioners seeking to preserve their data and fight information loss that arises from droping observations with missing values.
