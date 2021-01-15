@@ -15,6 +15,9 @@
 - 💬 Ask me about Python, R, QGIS/ArcMap
 - ⚡ Fun fact: I am enjoy building high performance computers and playing eSports
 
+###GitHub Stats
+![Marcus' github stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&show_icons=true&theme=radical)
+
 
 ### Languages and Tools:
 
