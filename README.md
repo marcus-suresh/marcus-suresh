@@ -1,4 +1,4 @@
-### Hi there, I am Marcus 👋
+## Hi there, I am Marcus 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-suresh/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcus-suresh)
 [![BitBucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.csiro.au/projects/DDE/repos/pyimpuyte/browse)
@@ -25,17 +25,18 @@
 ![GPU](https://img.shields.io/badge/NVIDIA-RTX2080Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CPU](https://img.shields.io/badge/Intel-Core_i9_9900K_OC'd_5.0_GHz-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
-### GitHub Stats
+### GitHub Stats:
 ![Marcus' github stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&show_icons=true&theme=radical)
 
-### 📕 Projects
+### 📕 Projects:
 
 `PyImpuyte` is a Python application that brings together a range of supervised machine learning algorithms in a customer-centric way that generates synthetic data to mitigate against sparse matrices.By adding `PyImpuyte` to their toolkit, practitioners can preserve their data and avoid losing valuable information that results from dropping observations with missing values.
 
-  #### Main Features
-  * Interfaces with `scikit-learn` to provide a customer-centric and efficient way to perform imputation using machine learning algorithms.
-  * Support for numerous imputation strategies and performance metrics.
+#### Main Features:
+* Interfaces with `scikit-learn` to provide a customer-centric and efficient way to perform imputation using machine learning algorithms.
+* Support for numerous imputation strategies and performance metrics.
 
+#### Resources:
 * **Conference Paper** - *Sharpening the BLADE: Missing Data Imputation Using Supervised Machine Learning*: **[AI2019: Advances in Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-3-030-35288-2_18)**.
 
 ```BibTeX
