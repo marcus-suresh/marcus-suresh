@@ -1,27 +1,25 @@
 ### Hi there, I am Marcus 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-suresh/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcus-suresh)
 [![BitBucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.csiro.au/projects/DDE/repos/pyimpuyte/browse)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-suresh/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14997939/marcus-suresh)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
-## I'm a Data Scientist and Economist
-- 🔭 I work for the Australian Federal Goverment and apply machine learning and data science methods to derive insights
-- 🌱 I’m currently studying a Master of Data Science at the University of Sydney
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 💬 Ask me about Python, R, QGIS/ArcMap
-- ⚡ Fun fact: I am enjoy building high performance computers and playing eSports
+## About me:
+- 🔭 I am an Assistant Manager/Senior Data Scientist at DISR. I use cutting-edge Ai techniques and Microsoft Azure Cognitive Services
+- 🌱 I've completed my Master of Data Science at the University of Sydney
+- 🥅 2023 Goals: Microsoft Azure Ai Engineering Certification
+- 💬 Ask me about Azure, DevOps, Python, R, QGIS/ArcMap
+- ⚡ Fun fact: I enjoy building high-performance computers and playing eSports
 
 ### Languages and Tools:
+![Azure](https://img.shields.io/badge/Azure-3776AB?style=for-the-badge&logo=azure&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-<img src="https://img.shields.io/badge/VSCode%20Power%20User-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img src="https://img.shields.io/badge/VSCode%20-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Data Science Rig:
 ![GPU](https://img.shields.io/badge/NVIDIA-RTX2080Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -31,13 +29,14 @@
 ![Marcus' github stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&show_icons=true&theme=radical)
 
 ### 📕 Projects
-The development of `PyImpuyte` is motivated by helping micro-data practitioners select and implement advanced imputation methods. `PyImpuyte` adds an additional tool in the toolkit of practitioners seeking to preserve their data and fight information loss that arises from droping observations with missing values.
+
+`PyImpuyte` is a Python application that brings together a range of supervised machine learning algorithms in a customer-centric way that generates synthetic data to mitigate against sparse matrices.By adding `PyImpuyte` to their toolkit, practitioners can preserve their data and avoid losing valuable information that results from dropping observations with missing values.
 
   #### Main Features
   * Interfaces with `scikit-learn` to provide a customer-centric and efficient way to perform imputation using machine learning algorithms.
-  * Support for numerous imputation strategies and performance metrics
+  * Support for numerous imputation strategies and performance metrics.
 
-* Conference Paper - Chapter 18 of **[AI2019: Advances in Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-3-030-35288-2_18)**.
+* **Conference Paper** - *Sharpening the BLADE: Missing Data Imputation Using Supervised Machine Learning*: **[AI2019: Advances in Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-3-030-35288-2_18)**.
 
 ```BibTeX
 @inbook{inbook,
@@ -51,7 +50,7 @@ The development of `PyImpuyte` is motivated by helping micro-data practitioners 
 }
 ```
 
-* Python Package - **[PyImpuyte](https://bitbucket.csiro.au/projects/DDE/repos/pyimpuyte)**.
+* **Python Package**: **[PyImpuyte](https://bitbucket.csiro.au/projects/DDE/repos/pyimpuyte)**.
 
 ```BibTeX
 @misc{Suresh2020_PyImpuyte,
