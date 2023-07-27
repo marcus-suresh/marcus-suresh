@@ -8,7 +8,7 @@
 ## About me:
 - 🔭 I am an Assistant Manager/Senior Data Scientist at DISR. I use cutting-edge Ai techniques and Microsoft Azure Cognitive Services
 - 🌱 I've completed my Master of Data Science at the University of Sydney
-- 🥅 2023 Goals: Microsoft Azure Ai Engineering Certification
+- 🥅 2023 In-progress: Microsoft Azure Ai-102 AI Enginer Certification
 - 💬 Ask me about Azure, DevOps, Python, R, QGIS/ArcMap
 - ⚡ Fun fact: I enjoy building high-performance computers and playing eSports
 
