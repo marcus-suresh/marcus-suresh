@@ -22,8 +22,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Data Science Rig:
-![GPU](https://img.shields.io/badge/NVIDIA-RTX2080Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![CPU](https://img.shields.io/badge/Intel-Core_i9_9900K_OC'd_5.0_GHz-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![GPU](https://img.shields.io/badge/NVIDIA-RTX4090-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CPU](https://img.shields.io/badge/Intel-Core_i9_14900K_OC'd_6.0_GHz-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ### GitHub Stats:
 ![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&show_icons=true&theme=tokyonight)
