@@ -6,7 +6,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
 ## About me:
-- 🔭 I am an Assistant Manager/Senior Data Scientist at DISR. I use cutting-edge Ai techniques and Microsoft Azure Cognitive Services
+- 🔭 I am an Assistant Manager/Senior Data Scientist (EL1/Ag EL2) at the Department of Industry, Science and Resources (DISR) in the Research & Development Tax Incentive Branch - Data Intelligence & Business Support Section. I lead a team that uses cutting-edge Artificial Intelligence and Machine Learning techniques to extract actionable insights.
 - 🌱 I've completed my Master of Data Science at the University of Sydney
 - 🥅 2023 In-progress: [Microsoft Azure Ai-102 AI Enginer Certification](https://learn.microsoft.com/en-us/users/marcussuresh-9988/transcript/76wxjhz9nk8m2rl)
 - 💬 Ask me about Azure, DevOps, Python, R, QGIS/ArcMap
