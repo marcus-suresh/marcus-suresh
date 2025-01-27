@@ -7,8 +7,8 @@
   
 ## About me:
 - 🔭 I am an Assistant Manager/Senior Data Scientist (EL1/Ag EL2) at the Department of Industry, Science and Resources (DISR) in the Research & Development Tax Incentive Branch - Data Intelligence & Business Support Section. I lead a team that uses cutting-edge Artificial Intelligence and Machine Learning techniques to extract actionable insights.
-- 🌱 I've completed my Master of Data Science at the University of Sydney
-- 🥅 2023 In-progress: [Microsoft Azure Ai-102 AI Enginer Certification](https://learn.microsoft.com/en-us/users/marcussuresh-9988/transcript/76wxjhz9nk8m2rl)
+- 🌱 I've completed my [Master of Data Science at the University of Sydney](https://www.myequals.net/r/profilesharelinkexternal/cce7770d-6364-4a53-b4c1-9c6344d963e4)
+- 🥅 2025 In-progress: [Microsoft Azure Ai-102 AI Enginer Certification](https://learn.microsoft.com/en-us/users/marcussuresh-9988/transcript/76wxjhz9nk8m2rl)
 - 💬 Ask me about Azure, DevOps, Python, R, QGIS/ArcMap
 - ⚡ Fun fact: I enjoy building high-performance computers and playing eSports
 
