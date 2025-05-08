@@ -7,10 +7,10 @@
   
 ## About me:
 - 🔭 I am a Data Advisor at the Department of Industry, Science and Resources (DISR) in the Data & Evaluation Branch.
-- 🌱 I've completed my [Master of Data Science at the University of Sydney](https://www.myequals.net/r/profilesharelinkexternal/cce7770d-6364-4a53-b4c1-9c6344d963e4)
-- 🥅 2023-25: [Microsoft Azure Ai-102 AI Enginer Certification](https://learn.microsoft.com/en-us/users/marcussuresh-9988/transcript/76wxjhz9nk8m2rl)
-- 💬 Ask me about Azure, DevOps, Python, R, QGIS/ArcMap
-- ⚡ Fun fact: I enjoy building high-performance computers and playing eSports
+- 🌱 I've completed my [Master of Data Science at the University of Sydney](https://www.myequals.net/r/profilesharelinkexternal/cce7770d-6364-4a53-b4c1-9c6344d963e4).
+- 🥅 2023-25: [Microsoft Azure Ai-102 AI Enginer Certification](https://learn.microsoft.com/en-us/users/marcussuresh-9988/transcript/76wxjhz9nk8m2rl).
+- 💬 Ask me about Azure, Python, DevOps, CI/CD and ArcGIS/QGIS.
+- ⚡ Fun fact: I enjoy building high-performance computers and playing eSports.
 
 ### Technology Stack:
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
