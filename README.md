@@ -36,7 +36,10 @@
 
 `PyImpuyte` is a Python application that brings together a range of supervised machine learning algorithms in a customer-centric way that generates synthetic data to mitigate against sparse matrices.By adding `PyImpuyte` to their toolkit, practitioners can preserve their data and avoid losing valuable information that results from dropping observations with missing values.[]
 
-![PyImpuyte](https://github.com/marcus-suresh/marcus-suresh/blob/main/pyimpuyte_logo.jpg)
+<p align="center">
+  <img src="https://github.com/marcus-suresh/marcus-suresh/blob/main/pyimpuyte_logo.jpg" />
+</p>
+
 
 #### Main Features:
 * Interfaces with `scikit-learn` to provide a customer-centric and efficient way to perform imputation using machine learning algorithms.
