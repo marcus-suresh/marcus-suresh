@@ -6,7 +6,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
 ## About me:
-- 🔭 I am a Data Scientist/Data Advisor at the Department of Industry, Science and Resources (DISR).
+- 🔭 I am a Professional Data Scientist at the Department of Industry, Science and Resources (DISR).
 - 🌱 I've completed my [Master of Data Science at the University of Sydney](https://www.myequals.net/r/profilesharelinkexternal/cce7770d-6364-4a53-b4c1-9c6344d963e4).
 - 🥅 2023-25: [Microsoft Azure Ai-102 AI Enginer Certification](https://learn.microsoft.com/en-us/users/marcussuresh-9988/transcript/76wxjhz9nk8m2rl).
 - 💬 Ask me about Azure, Python, DevOps, CI/CD and ArcGIS/QGIS.
