@@ -30,7 +30,7 @@
 
 ### GitHub Stats:
 #![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&show_icons=true&theme=nightowl)
-[![Marcus' GitHub Stats](https://gh-readme-profile.vercel.app/api?username=marcus-suresh)](https://github.com/marcus-suresh/github-readme-profile)
+[![Marcus' GitHub Stats](https://gh-readme-profile.vercel.app/api?username=marcus-suresh&theme=dark)](https://github.com/marcus-suresh/github-readme-profile)
 
 ### 📕 Projects:
 
