@@ -29,7 +29,8 @@
 ![CPU](https://img.shields.io/badge/Intel-Core_i9_14900K_OC'd_6.0_GHz-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ### GitHub Stats:
-![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&show_icons=true&theme=nightowl)
+#![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcus-suresh&show_icons=true&theme=nightowl)
+[![Marcus' GitHub Stats](https://gh-readme-profile.vercel.app/api?username=marcus-suresh)](https://github.com/marcus-suresh/github-readme-profile)
 
 ### 📕 Projects:
 
